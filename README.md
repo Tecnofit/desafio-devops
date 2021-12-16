@@ -1,8 +1,8 @@
 # Desafio DevOps
 Aqui estão os desafios para a primeira fase de testes de candidatos da Tecnofit para às vagas de **DevOps**.
 
-1. [IaC]()
-2. [Kubernetes]()
+1. [IaC](https://github.com/Tecnofit/desafio-devops/tree/main/iac)
+2. [Kubernetes](https://github.com/Tecnofit/desafio-devops/tree/main/kubernetes)
 
 Não há diferença de testes para diferentes níveis de profissionais, porém ambos os testes serão avaliados com diferentes critérios, dependendo do perfil da vaga.
 
