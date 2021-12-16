@@ -1,4 +1,4 @@
-# Desafio _Infrastructure-as-code_
+# Desafio _IaC_
 
 ## Motivação
 Recursos de infraestrutura em nuvem devem ser criados utilizando gerenciadores de configuração, tais como [Cloudformation](https://aws.amazon.com/cloudformation/), [Terraform](https://www.terraform.io/) ou outros, garantindo que todo recurso possa ser versionado e recriado de forma facilitada.
